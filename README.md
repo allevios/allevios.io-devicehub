@@ -13,7 +13,7 @@ Following things working with this version
  + Wrap things with template engine ( Working )
  + Create a socket for eib gateway if a eib device found ( Working ) (Hardcoded on port 5000 for now)
  + Send commands over the template engine to the devices ( Eib or Cylon ) ( Working ) (Cylon only testet with HuE Bulps )
- + Recive commands from Server ( Not Working )  <- Server API has reached is final state can now start implement this 
+ + Receive commands from Server ( Not Working )  <- Server API has reached is final state can now start implement this 
 
 ## Requirements
 
