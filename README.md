@@ -27,7 +27,7 @@ Clone the repository and run "npm install" in the root tree of the repository.
 
 ## Usage
 
-``sh
+```sh
 node app.js
 
 node app.js -l (warn and error logging)
@@ -38,7 +38,7 @@ node app.js -s (Log to stdout, needs bunjan )
 #Example full log to stdout
 
 node app.js -s -L | bunjan
-``
+```
 
 ## Licence
 Copyright 2015, 2016 Christian Kawalar, Daniel Schlager
